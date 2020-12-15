@@ -1,0 +1,19 @@
+body {
+  background-color: hsl(210, 50%, 10%);
+  color: hsl(210, 50%, 90%);
+}
+output {
+  white-space: pre;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+label {
+  display: block;
+}
+input {
+  background-color: hsl(210, 50%, 10%);
+  color: white;
+  margin: 0.5em;
+  border: 0;
+  border-bottom: 1px solid hsl(210, 50%, 66%);
+}
