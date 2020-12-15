@@ -1,8 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-4 -4 208 208">
-  <rect width="200" height="200" 
-    stroke="hsl(45, 100%, 50%)" stroke-width="6.1805"
-    fill="hsl(210, 100%, 12.5%)"
-    />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-3.61805 -3.16805 206.3361 206.3361">
+  <!-- <rect width="200" height="200" stroke-width="6.1805" stroke='black'/> -->
   <path
     id="D"
     stroke="hsl(210, 100%, 50%)"
@@ -10,7 +7,8 @@
     fill="hsl(210, 100%, 25%)"
     d="M 100 0 A 100,100 0 1 1 41.2214747707527 180.90169943749476 Z"
   />
-  <path 
+  <path
+    id="R"
     stroke="hsl(45, 100%, 50%)"
     stroke-width="6.1805"
     fill="hsl(240, 100%, 25%)"
